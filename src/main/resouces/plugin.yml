@@ -1,0 +1,6 @@
+name: GPShopAddon
+main: me.tWizT3d_dreaMr.gpShopAddon.main
+version: 0.1
+author: tWizT3d_dreaMr
+api-version: 1.18
+depend: [ Shop, GriefPrevention ]
